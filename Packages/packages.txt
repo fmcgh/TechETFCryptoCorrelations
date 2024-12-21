@@ -3,3 +3,7 @@ numpy
 yfinance
 datetime
 matplotlib
+sklearn
+seaborn
+pep8
+pylint
